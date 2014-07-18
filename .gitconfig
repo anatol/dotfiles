@@ -1,0 +1,11 @@
+[user]
+	email = anatol.pomozov@gmail.com
+	name = Anatol Pomozov
+[push]
+	default = simple
+[core]
+	editor = vim
+[grep]
+	lineNumber = true
+[branch]
+	autosetuprebase = always
