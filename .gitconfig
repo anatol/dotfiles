@@ -11,3 +11,9 @@
 	autosetuprebase = always
 [color]
 	ui = true
+[sendemail]
+	confirm = auto
+	smtpencryption = tls
+	smtpserver = smtp.gmail.com
+	smtpuser = anatol.pomozov@gmail.com
+	smtpserverport = 587
